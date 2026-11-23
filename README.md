@@ -1,9 +1,5 @@
 # OKK Proxy Manager
 
-Maintained by [Jie-Omo](https://github.com/Jie-Omo).
-
-This repository carries the [Jie-Omo/surge fork](https://github.com/Jie-Omo/surge), based on [mozisen/surge](https://github.com/mozisen/surge). Original project author and contributors remain credited in the script and history. This repository identifies the current maintainer; it does not claim original authorship.
-
 ## Proxy manager
 
 ```bash
